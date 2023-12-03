@@ -49,13 +49,7 @@
     <loc>/reference/chunk_indices.html</loc>
   </url>
   <url>
-    <loc>/reference/coalesce_crs.html</loc>
-  </url>
-  <url>
     <loc>/reference/collect_layer.html</loc>
-  </url>
-  <url>
-    <loc>/reference/count_results.html</loc>
   </url>
   <url>
     <loc>/reference/create_feature_server.html</loc>
@@ -83,6 +77,9 @@
   </url>
   <url>
     <loc>/reference/spatial_filter.html</loc>
+  </url>
+  <url>
+    <loc>/reference/truncate_layer.html</loc>
   </url>
   <url>
     <loc>/reference/update_params.html</loc>
